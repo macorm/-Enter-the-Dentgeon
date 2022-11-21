@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0f8281d3afbfff479df950212826155, type: 3}
+  m_Name: Dentifrice dangereux
+  m_EditorClassIdentifier: 
+  name: Dentifrice dangereux
+  description: Dissout tout plus facilement
+  icon: {fileID: 21300000, guid: e2936f47909c4b148a4464b7af24ac17, type: 3}
+  isDefaultItem: 0
+  maxHealthIncrease: 0
+  heal: 0
+  allowsFlight: 0
+  speedMultiplier: 0
+  sizeMultiplier: 0
+  bulletSpeedMultiplier: 0
+  bulletSizeMultiplier: 1.2
+  bulletDamageMultiplier: 0.5
+  fireRateMultiplier: -0.1

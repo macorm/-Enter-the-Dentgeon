@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GabMenu.unity
+    guid: b35ea0e6dec6ee446b3a1eba4e6290de
+  - enabled: 1
+    path: Assets/Scenes/DemoGame.unity
+    guid: 053be6fc26f7391479493b4138080d6a
+  - enabled: 1
+    path: Assets/Scenes/DemoGame2.0.unity
+    guid: d51c91edb4bdc754caba42e9823d9d7b
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreen.unity
+    guid: 5327e3a5d3f4f7d44ab7b4710aec7bc7
+  m_configObjects: {}
